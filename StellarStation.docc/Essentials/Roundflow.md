@@ -36,3 +36,9 @@ Different escape sequences have different conditions for the crew to get out ali
 
 For example, scuttling the station and launching evacuation pods will require crew to be able to successfully get onto small pods before the station is scuttled.
 Initiating a station-wide bluespace jump will require the crew to defend their bluespace drive until the station can safely jump out of the situation.
+
+These conditions effectively become the new station objective for crew-sided players.
+Escape pods need to be gotten to before they launch or the station is destroyed by a threat, and the BSD needs to be defended for the duration of its jump sequence.
+At the same time, if a threat poses so much of a risk that it makes doing these infeasible, it needs to be squashed by the crew, or at the very least, fended off for long enough.
+
+If e.g. Cosmic Cult is ushering the end, the crew doesn't necessarily need to fully squash the cult, just enough that the end doesn't happen before they can get out.
