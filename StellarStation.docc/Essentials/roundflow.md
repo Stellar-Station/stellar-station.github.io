@@ -6,6 +6,9 @@ Understand the desired path of players through a round
 
 Crew players start the shift congregated in a single place, to encourage them to mingle outside of the bounds of their departments.
 
+The station itself is in the middle of FTL travel through bluespace, towards a randomized "hazard sector."
+This hazard sector serves as a source of random events and the parallax for a round.
+
 ## Mid-Round
 
 Different factions on the station have different goals to work towards.
@@ -27,6 +30,7 @@ The phenomenon has a ramping-up period as the 1h30m mark draws near.
 This warns the factions on the station that they are running out of time and something is about to go wrong.
 
 Once the 1h30m mark is passed, the station will begin escape procedures to get out of the situation.
+The round is considered over once the station enters FTL.
 
 ## Escaping
 
